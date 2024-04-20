@@ -1,7 +1,7 @@
 # SIMULATION AND IMPLEMENTATION OF MULTIPLIER
 
 **AIM:**
- To simulate and synthesis multiplier using Xilinx ISE.
+ To simulate and synthesis multiplier using Vivado Software
 
 **APPARATUS REQUIRED:**
 Vivado™ ML 2023.2
@@ -63,7 +63,8 @@ SIMULATION:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-3/assets/16051788
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-3/assets/160517887/11ad105d-7a12-456b-b64b-d93a3c8d6c0f)
 
 
-**Result**
+**Result:**
+          Simulation and Synthesis Multiplier verified successfully using Vivado Software 
 
 
 
