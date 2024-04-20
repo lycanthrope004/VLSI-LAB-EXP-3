@@ -57,7 +57,9 @@ and(carry,a,b);
 endmodule
 ~~~
 **Output Waveform**
+
 MULTIPLIER_2 BIT
+
 SIMULATION:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-3/assets/160517887/901cca4e-ba45-4262-b5b9-6752c9b2ecee)
 
 Elabrated Diagram:![image](https://github.com/Madhan0302/VLSI-LAB-EXP-3/assets/160517887/11ad105d-7a12-456b-b64b-d93a3c8d6c0f)
